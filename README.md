@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @abhipnw07
 - 👀 I’m interested in Web developing  
 - 🌱 I’m currently learning Python
-- 📫 How to reach me :instagram: @minorcatcher:
-
+- 📫 How to reach me
+-           :my instagram: @minorcatcher
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Im broke :)
 
 <!---
 abhipnw07/abhipnw07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
